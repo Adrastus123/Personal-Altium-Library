@@ -27,10 +27,11 @@ Silkscreen_Logo
   
 ThruHole_Passive
   - see EF2105-ND
-  
-XTD Modules
-  - 
-  
+
+XTD_Modules  
+  - used in XTD
+  - All them works.
+
 ZQstencil 
   - Used to make a stencil from OSH stencil for the ZQ stencil frame.  
   - Tested and works.
